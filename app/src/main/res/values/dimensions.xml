@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="HeadingTextview">12dp</dimen>
+    <dimen name="paraTextview">8dp</dimen>
+    <dimen name="marginBTWimageAndtext">4dp</dimen>
+</resources>
